@@ -1,6 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-04-30T03:20:26.040889+00:00
-- Snapshot date: 2026-04-30
+- Generated at (UTC): 2026-05-01T01:59:30.660430+00:00
+- Snapshot date: 2026-05-01
 - Coins tracked: 15
-- Average daily price change: N/A
+- Average daily price change: 0.94%
+- Top gainer: WBT (6.62%)
+- Top loser: LEO (-0.48%)

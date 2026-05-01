@@ -1,8 +1,14 @@
 {
-  "generated_at_utc": "2026-04-30T03:20:26.040889+00:00",
-  "snapshot_date": "2026-04-30",
+  "generated_at_utc": "2026-05-01T01:59:30.660430+00:00",
+  "snapshot_date": "2026-05-01",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": null,
-  "top_gainer": null,
-  "top_loser": null
+  "avg_daily_price_change_pct": 0.94,
+  "top_gainer": {
+    "symbol": "WBT",
+    "change_pct": 6.62
+  },
+  "top_loser": {
+    "symbol": "LEO",
+    "change_pct": -0.48
+  }
 }
