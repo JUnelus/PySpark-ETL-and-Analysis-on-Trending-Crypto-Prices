@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-05-04T01:58:53.413927+00:00
-- Snapshot date: 2026-05-04
+- Generated at (UTC): 2026-05-05T01:58:59.502652+00:00
+- Snapshot date: 2026-05-05
 - Coins tracked: 15
-- Average daily price change: 1.09%
-- Top gainer: DOGE (4.41%)
-- Top loser: USDT (-0.01%)
+- Average daily price change: 0.25%
+- Top gainer: HYPE (1.79%)
+- Top loser: DOGE (-1.15%)
