@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-05-05T01:58:59.502652+00:00",
-  "snapshot_date": "2026-05-05",
+  "generated_at_utc": "2026-05-06T01:58:42.872671+00:00",
+  "snapshot_date": "2026-05-06",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 0.25,
+  "avg_daily_price_change_pct": 1.48,
   "top_gainer": {
-    "symbol": "HYPE",
-    "change_pct": 1.79
+    "symbol": "ADA",
+    "change_pct": 4.83
   },
   "top_loser": {
-    "symbol": "DOGE",
-    "change_pct": -1.15
+    "symbol": "USDC",
+    "change_pct": -0.01
   }
 }
