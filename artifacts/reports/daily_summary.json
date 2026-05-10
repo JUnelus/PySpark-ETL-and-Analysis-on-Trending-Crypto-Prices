@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-05-09T01:58:49.816168+00:00",
-  "snapshot_date": "2026-05-09",
+  "generated_at_utc": "2026-05-10T01:58:50.860667+00:00",
+  "snapshot_date": "2026-05-10",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 2.28,
+  "avg_daily_price_change_pct": -0.81,
   "top_gainer": {
-    "symbol": "SOL",
-    "change_pct": 6.27
+    "symbol": "BTC",
+    "change_pct": 0.33
   },
   "top_loser": {
-    "symbol": "USDS",
-    "change_pct": 0.0
+    "symbol": "ADA",
+    "change_pct": -3.06
   }
 }
