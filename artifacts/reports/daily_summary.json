@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-05-11T01:59:21.918776+00:00",
-  "snapshot_date": "2026-05-11",
+  "generated_at_utc": "2026-05-12T01:59:18.702780+00:00",
+  "snapshot_date": "2026-05-12",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 0.81,
+  "avg_daily_price_change_pct": -0.23,
   "top_gainer": {
-    "symbol": "ADA",
-    "change_pct": 3.9
+    "symbol": "FIGR_HELOC",
+    "change_pct": 3.0
   },
   "top_loser": {
-    "symbol": "ZEC",
-    "change_pct": -3.04
+    "symbol": "HYPE",
+    "change_pct": -2.79
   }
 }
