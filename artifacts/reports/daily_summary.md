@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-05-16T01:58:54.690868+00:00
-- Snapshot date: 2026-05-16
+- Generated at (UTC): 2026-05-17T01:59:01.426047+00:00
+- Snapshot date: 2026-05-17
 - Coins tracked: 15
-- Average daily price change: -1.85%
-- Top gainer: LEO (0.2%)
-- Top loser: HYPE (-6.12%)
+- Average daily price change: -1.69%
+- Top gainer: FIGR_HELOC (0.78%)
+- Top loser: HYPE (-4.4%)
