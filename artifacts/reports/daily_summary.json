@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-05-17T01:59:01.426047+00:00",
-  "snapshot_date": "2026-05-17",
+  "generated_at_utc": "2026-05-18T01:59:39.329305+00:00",
+  "snapshot_date": "2026-05-18",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": -1.69,
+  "avg_daily_price_change_pct": 0.05,
   "top_gainer": {
-    "symbol": "FIGR_HELOC",
-    "change_pct": 0.78
+    "symbol": "HYPE",
+    "change_pct": 10.8
   },
   "top_loser": {
-    "symbol": "HYPE",
-    "change_pct": -4.4
+    "symbol": "ETH",
+    "change_pct": -2.4
   }
 }
