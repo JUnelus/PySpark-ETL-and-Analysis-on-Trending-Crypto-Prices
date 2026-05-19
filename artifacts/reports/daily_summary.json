@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-05-18T01:59:39.329305+00:00",
-  "snapshot_date": "2026-05-18",
+  "generated_at_utc": "2026-05-19T01:59:23.937654+00:00",
+  "snapshot_date": "2026-05-19",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 0.05,
+  "avg_daily_price_change_pct": -0.16,
   "top_gainer": {
     "symbol": "HYPE",
-    "change_pct": 10.8
+    "change_pct": 2.78
   },
   "top_loser": {
-    "symbol": "ETH",
-    "change_pct": -2.4
+    "symbol": "DOGE",
+    "change_pct": -2.36
   }
 }
