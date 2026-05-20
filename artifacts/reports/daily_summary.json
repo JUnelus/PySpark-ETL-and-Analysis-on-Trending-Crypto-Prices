@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-05-19T01:59:23.937654+00:00",
-  "snapshot_date": "2026-05-19",
+  "generated_at_utc": "2026-05-20T01:59:23.938117+00:00",
+  "snapshot_date": "2026-05-20",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": -0.16,
+  "avg_daily_price_change_pct": -0.27,
   "top_gainer": {
-    "symbol": "HYPE",
-    "change_pct": 2.78
+    "symbol": "ZEC",
+    "change_pct": 1.61
   },
   "top_loser": {
-    "symbol": "DOGE",
-    "change_pct": -2.36
+    "symbol": "XRP",
+    "change_pct": -2.17
   }
 }
