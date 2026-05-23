@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-05-22T01:59:51.728776+00:00",
-  "snapshot_date": "2026-05-22",
+  "generated_at_utc": "2026-05-23T01:59:29.803840+00:00",
+  "snapshot_date": "2026-05-23",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 0.03,
+  "avg_daily_price_change_pct": -2.22,
   "top_gainer": {
-    "symbol": "TRX",
-    "change_pct": 1.74
+    "symbol": "FIGR_HELOC",
+    "change_pct": 0.98
   },
   "top_loser": {
     "symbol": "ZEC",
-    "change_pct": -2.64
+    "change_pct": -9.5
   }
 }
