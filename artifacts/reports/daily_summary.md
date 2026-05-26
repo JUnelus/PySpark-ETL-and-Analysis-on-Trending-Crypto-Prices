@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-05-25T01:59:58.307498+00:00
-- Snapshot date: 2026-05-25
+- Generated at (UTC): 2026-05-26T01:59:24.243892+00:00
+- Snapshot date: 2026-05-26
 - Coins tracked: 15
-- Average daily price change: 0.0%
-- Top gainer: ZEC (2.84%)
-- Top loser: ADA (-1.95%)
+- Average daily price change: -0.6%
+- Top gainer: TRX (2.18%)
+- Top loser: HYPE (-3.49%)
