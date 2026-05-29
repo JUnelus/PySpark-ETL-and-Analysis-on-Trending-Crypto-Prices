@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-05-28T01:59:29.896490+00:00
-- Snapshot date: 2026-05-28
+- Generated at (UTC): 2026-05-29T01:59:45.848149+00:00
+- Snapshot date: 2026-05-29
 - Coins tracked: 15
-- Average daily price change: -1.68%
-- Top gainer: FIGR_HELOC (0.68%)
-- Top loser: ZEC (-7.22%)
+- Average daily price change: -0.04%
+- Top gainer: HYPE (6.55%)
+- Top loser: TRX (-4.21%)
