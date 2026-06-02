@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-06-01T02:04:02.273596+00:00
-- Snapshot date: 2026-06-01
+- Generated at (UTC): 2026-06-02T02:04:37.354370+00:00
+- Snapshot date: 2026-06-02
 - Coins tracked: 15
-- Average daily price change: -0.19%
-- Top gainer: ZEC (4.93%)
-- Top loser: BNB (-4.51%)
+- Average daily price change: -1.27%
+- Top gainer: FIGR_HELOC (2.46%)
+- Top loser: ADA (-5.57%)
