@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-06-04T02:09:55.271315+00:00
-- Snapshot date: 2026-06-04
+- Generated at (UTC): 2026-06-05T01:59:51.561903+00:00
+- Snapshot date: 2026-06-05
 - Coins tracked: 15
-- Average daily price change: -3.37%
-- Top gainer: HYPE (2.78%)
-- Top loser: SOL (-9.32%)
+- Average daily price change: -1.77%
+- Top gainer: RAIN (2.31%)
+- Top loser: ZEC (-27.33%)
