@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-06-05T01:59:51.561903+00:00",
-  "snapshot_date": "2026-06-05",
+  "generated_at_utc": "2026-06-06T01:59:27.813741+00:00",
+  "snapshot_date": "2026-06-06",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": -1.77,
+  "avg_daily_price_change_pct": -5.49,
   "top_gainer": {
-    "symbol": "RAIN",
-    "change_pct": 2.31
+    "symbol": "FIGR_HELOC",
+    "change_pct": 0.98
   },
   "top_loser": {
-    "symbol": "ZEC",
-    "change_pct": -27.33
+    "symbol": "XLM",
+    "change_pct": -27.08
   }
 }
