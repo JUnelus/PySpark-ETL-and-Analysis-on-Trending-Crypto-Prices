@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-06-06T01:59:27.813741+00:00
-- Snapshot date: 2026-06-06
+- Generated at (UTC): 2026-06-07T02:01:35.044924+00:00
+- Snapshot date: 2026-06-07
 - Coins tracked: 15
-- Average daily price change: -5.49%
-- Top gainer: FIGR_HELOC (0.98%)
-- Top loser: XLM (-27.08%)
+- Average daily price change: 0.47%
+- Top gainer: XLM (7.25%)
+- Top loser: HYPE (-3.17%)
