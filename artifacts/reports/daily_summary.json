@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-06-08T02:03:26.110519+00:00",
-  "snapshot_date": "2026-06-08",
+  "generated_at_utc": "2026-06-09T01:59:20.337434+00:00",
+  "snapshot_date": "2026-06-09",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 2.22,
+  "avg_daily_price_change_pct": -0.11,
   "top_gainer": {
-    "symbol": "ETH",
-    "change_pct": 6.05
+    "symbol": "HYPE",
+    "change_pct": 4.6
   },
   "top_loser": {
-    "symbol": "USDC",
-    "change_pct": 0.0
+    "symbol": "LEO",
+    "change_pct": -2.59
   }
 }
