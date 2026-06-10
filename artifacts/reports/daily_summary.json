@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-06-09T01:59:20.337434+00:00",
-  "snapshot_date": "2026-06-09",
+  "generated_at_utc": "2026-06-10T01:59:54.142725+00:00",
+  "snapshot_date": "2026-06-10",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": -0.11,
+  "avg_daily_price_change_pct": -1.46,
   "top_gainer": {
-    "symbol": "HYPE",
-    "change_pct": 4.6
+    "symbol": "LEO",
+    "change_pct": 0.85
   },
   "top_loser": {
-    "symbol": "LEO",
-    "change_pct": -2.59
+    "symbol": "HYPE",
+    "change_pct": -8.91
   }
 }
