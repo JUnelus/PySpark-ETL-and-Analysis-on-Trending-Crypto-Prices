@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-06-17T02:06:29.398179+00:00",
-  "snapshot_date": "2026-06-17",
+  "generated_at_utc": "2026-06-18T02:04:37.143621+00:00",
+  "snapshot_date": "2026-06-18",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 0.64,
+  "avg_daily_price_change_pct": 0.1,
   "top_gainer": {
-    "symbol": "HYPE",
-    "change_pct": 10.47
+    "symbol": "XLM",
+    "change_pct": 13.1
   },
   "top_loser": {
-    "symbol": "BNB",
-    "change_pct": -1.35
+    "symbol": "HYPE",
+    "change_pct": -2.8
   }
 }
