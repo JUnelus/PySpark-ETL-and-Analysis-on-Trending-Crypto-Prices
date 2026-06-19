@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-06-18T02:04:37.143621+00:00",
-  "snapshot_date": "2026-06-18",
+  "generated_at_utc": "2026-06-19T02:14:06.467145+00:00",
+  "snapshot_date": "2026-06-19",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 0.1,
+  "avg_daily_price_change_pct": -2.09,
   "top_gainer": {
-    "symbol": "XLM",
-    "change_pct": 13.1
+    "symbol": "USDC",
+    "change_pct": 0.01
   },
   "top_loser": {
     "symbol": "HYPE",
-    "change_pct": -2.8
+    "change_pct": -6.54
   }
 }
