@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-06-23T01:59:14.636292+00:00",
-  "snapshot_date": "2026-06-23",
+  "generated_at_utc": "2026-06-24T01:59:13.205572+00:00",
+  "snapshot_date": "2026-06-24",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": -0.0,
+  "avg_daily_price_change_pct": -1.8,
   "top_gainer": {
-    "symbol": "RAIN",
-    "change_pct": 11.33
+    "symbol": "USDT",
+    "change_pct": 0.0
   },
   "top_loser": {
-    "symbol": "SOL",
-    "change_pct": -3.41
+    "symbol": "HYPE",
+    "change_pct": -5.09
   }
 }
