@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-06-27T01:59:21.607868+00:00
-- Snapshot date: 2026-06-27
+- Generated at (UTC): 2026-06-28T01:59:57.210527+00:00
+- Snapshot date: 2026-06-28
 - Coins tracked: 15
-- Average daily price change: 0.97%
-- Top gainer: SOL (6.24%)
-- Top loser: TRX (-0.9%)
+- Average daily price change: -0.47%
+- Top gainer: FIGR_HELOC (1.56%)
+- Top loser: ZEC (-4.28%)
