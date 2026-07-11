@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-07-10T01:58:54.701665+00:00",
-  "snapshot_date": "2026-07-10",
+  "generated_at_utc": "2026-07-11T01:58:34.232814+00:00",
+  "snapshot_date": "2026-07-11",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 1.18,
+  "avg_daily_price_change_pct": 0.21,
   "top_gainer": {
     "symbol": "ZEC",
-    "change_pct": 5.36
+    "change_pct": 3.5
   },
   "top_loser": {
-    "symbol": "FIGR_HELOC",
-    "change_pct": -3.09
+    "symbol": "SOL",
+    "change_pct": -1.95
   }
 }
