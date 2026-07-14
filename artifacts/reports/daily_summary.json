@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-07-13T01:58:31.576139+00:00",
-  "snapshot_date": "2026-07-13",
+  "generated_at_utc": "2026-07-14T01:58:18.430518+00:00",
+  "snapshot_date": "2026-07-14",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": -0.16,
+  "avg_daily_price_change_pct": -1.55,
   "top_gainer": {
-    "symbol": "ZEC",
-    "change_pct": 3.23
+    "symbol": "LEO",
+    "change_pct": 0.1
   },
   "top_loser": {
-    "symbol": "RAIN",
-    "change_pct": -2.08
+    "symbol": "HYPE",
+    "change_pct": -5.79
   }
 }
