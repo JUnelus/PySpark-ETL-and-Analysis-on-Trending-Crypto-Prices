@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-07-22T01:58:24.585854+00:00",
-  "snapshot_date": "2026-07-22",
+  "generated_at_utc": "2026-07-23T01:58:43.425025+00:00",
+  "snapshot_date": "2026-07-23",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 1.02,
+  "avg_daily_price_change_pct": -0.98,
   "top_gainer": {
-    "symbol": "RAIN",
-    "change_pct": 9.27
+    "symbol": "LEO",
+    "change_pct": 1.03
   },
   "top_loser": {
-    "symbol": "HYPE",
-    "change_pct": -2.2
+    "symbol": "RAIN",
+    "change_pct": -6.64
   }
 }
