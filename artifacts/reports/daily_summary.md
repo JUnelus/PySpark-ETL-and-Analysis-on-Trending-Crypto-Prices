@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-07-24T01:58:30.672078+00:00
-- Snapshot date: 2026-07-24
+- Generated at (UTC): 2026-07-25T01:58:46.488986+00:00
+- Snapshot date: 2026-07-25
 - Coins tracked: 15
-- Average daily price change: -1.23%
-- Top gainer: FIGR_HELOC (3.17%)
-- Top loser: DOGE (-4.84%)
+- Average daily price change: -0.66%
+- Top gainer: TRX (0.7%)
+- Top loser: FIGR_HELOC (-2.21%)
