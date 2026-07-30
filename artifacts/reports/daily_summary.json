@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-07-29T01:58:29.654582+00:00",
-  "snapshot_date": "2026-07-29",
+  "generated_at_utc": "2026-07-30T01:57:54.298499+00:00",
+  "snapshot_date": "2026-07-30",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 0.08,
+  "avg_daily_price_change_pct": 0.41,
   "top_gainer": {
-    "symbol": "ETH",
-    "change_pct": 1.67
+    "symbol": "SOL",
+    "change_pct": 1.15
   },
   "top_loser": {
     "symbol": "HYPE",
-    "change_pct": -3.31
+    "change_pct": -0.24
   }
 }
