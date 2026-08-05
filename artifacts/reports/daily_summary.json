@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-08-04T01:58:29.875630+00:00",
-  "snapshot_date": "2026-08-04",
+  "generated_at_utc": "2026-08-05T01:58:26.143794+00:00",
+  "snapshot_date": "2026-08-05",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 0.61,
+  "avg_daily_price_change_pct": 0.07,
   "top_gainer": {
     "symbol": "HYPE",
-    "change_pct": 3.14
+    "change_pct": 2.14
   },
   "top_loser": {
     "symbol": "RAIN",
-    "change_pct": -0.74
+    "change_pct": -2.03
   }
 }
