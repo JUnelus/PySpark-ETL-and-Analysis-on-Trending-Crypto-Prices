@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-08-07T01:59:18.590265+00:00",
-  "snapshot_date": "2026-08-07",
+  "generated_at_utc": "2026-08-08T01:56:15.900579+00:00",
+  "snapshot_date": "2026-08-08",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": -0.52,
+  "avg_daily_price_change_pct": 0.07,
   "top_gainer": {
-    "symbol": "FIGR_HELOC",
-    "change_pct": 0.19
+    "symbol": "SOL",
+    "change_pct": 1.71
   },
   "top_loser": {
-    "symbol": "XRP",
-    "change_pct": -1.99
+    "symbol": "HYPE",
+    "change_pct": -2.78
   }
 }
