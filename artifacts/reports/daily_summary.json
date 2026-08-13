@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-08-12T01:57:21.206916+00:00",
-  "snapshot_date": "2026-08-12",
+  "generated_at_utc": "2026-08-13T01:57:19.721162+00:00",
+  "snapshot_date": "2026-08-13",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 0.29,
+  "avg_daily_price_change_pct": -0.06,
   "top_gainer": {
-    "symbol": "FIGR_HELOC",
-    "change_pct": 3.49
+    "symbol": "LEO",
+    "change_pct": 3.41
   },
   "top_loser": {
-    "symbol": "LEO",
-    "change_pct": -4.62
+    "symbol": "DOGE",
+    "change_pct": -3.36
   }
 }
