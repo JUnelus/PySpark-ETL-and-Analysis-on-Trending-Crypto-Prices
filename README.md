@@ -48,15 +48,15 @@ It updates:
 <!-- AUTO-GENERATED-SECTION:START -->
 ## Latest Automated Update
 
-![Last Update](https://img.shields.io/badge/last%20update-2026--08--13%2001%3A57%20UTC-blue)
+![Last Update](https://img.shields.io/badge/last%20update-2026--08--14%2001%3A57%20UTC-blue)
 
-- Pipeline run time: **2026-08-13 01:57 UTC**
-- Snapshot date: **2026-08-13**
+- Pipeline run time: **2026-08-14 01:57 UTC**
+- Snapshot date: **2026-08-14**
 - Coins tracked: **15**
-- Avg daily price change: **-0.06%**
+- Avg daily price change: **-0.04%**
 
-- Top gainer: **LEO (3.41%)**
-- Top loser: **DOGE (-3.36%)**
+- Top gainer: **HYPE (1.63%)**
+- Top loser: **FIGR_HELOC (-3.27%)**
 
 ### Trend Charts
 
@@ -68,15 +68,15 @@ It updates:
 
 | Coin | Symbol | Price | Daily Change | Trend |
 |---|---:|---:|---:|---|
-| Bitcoin | BTC | $63,429.0000 | -0.56% | Sideways |
-| Ethereum | ETH | $1,877.0500 | -0.33% | Sideways |
-| Tether | USDT | $0.9992 | 0.00% | Sideways |
-| BNB | BNB | $610.6800 | -1.26% | Bearish |
-| USDC | USDC | $0.9996 | -0.01% | Sideways |
-| XRP | XRP | $1.0040 | -1.76% | Bearish |
-| Solana | SOL | $75.6300 | -1.05% | Bearish |
-| TRON | TRX | $0.3357 | 0.40% | Sideways |
-| Figure Heloc | FIGR_HELOC | $1.0400 | 0.19% | Sideways |
-| Hyperliquid | HYPE | $56.2800 | 3.10% | Bullish |
+| Bitcoin | BTC | $63,490.0000 | 0.10% | Sideways |
+| Ethereum | ETH | $1,886.8900 | 0.52% | Sideways |
+| Tether | USDT | $0.9991 | 0.00% | Sideways |
+| BNB | BNB | $610.4000 | -0.05% | Sideways |
+| USDC | USDC | $0.9996 | 0.00% | Sideways |
+| XRP | XRP | $1.0100 | 0.60% | Sideways |
+| Solana | SOL | $76.0400 | 0.54% | Sideways |
+| TRON | TRX | $0.3342 | -0.47% | Sideways |
+| Figure Heloc | FIGR_HELOC | $1.0060 | -3.27% | Bearish |
+| Hyperliquid | HYPE | $57.2000 | 1.63% | Bullish |
 
 <!-- AUTO-GENERATED-SECTION:END -->
