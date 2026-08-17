@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-08-16T01:53:43.470857+00:00
-- Snapshot date: 2026-08-16
+- Generated at (UTC): 2026-08-17T01:52:31.350385+00:00
+- Snapshot date: 2026-08-17
 - Coins tracked: 15
-- Average daily price change: -0.11%
-- Top gainer: LEO (4.69%)
-- Top loser: FIGR_HELOC (-3.56%)
+- Average daily price change: 0.56%
+- Top gainer: RAIN (2.36%)
+- Top loser: BNB (-0.47%)
