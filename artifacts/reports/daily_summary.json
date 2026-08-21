@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-08-20T01:50:35.505023+00:00",
-  "snapshot_date": "2026-08-20",
+  "generated_at_utc": "2026-08-21T01:53:30.902927+00:00",
+  "snapshot_date": "2026-08-21",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 6.82,
+  "avg_daily_price_change_pct": 4.03,
   "top_gainer": {
-    "symbol": "ETH",
-    "change_pct": 18.5
+    "symbol": "XRP",
+    "change_pct": 17.12
   },
   "top_loser": {
-    "symbol": "USDC",
-    "change_pct": -0.01
+    "symbol": "FIGR_HELOC",
+    "change_pct": -1.63
   }
 }
