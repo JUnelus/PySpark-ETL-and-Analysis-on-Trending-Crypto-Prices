@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-08-21T01:53:30.902927+00:00",
-  "snapshot_date": "2026-08-21",
+  "generated_at_utc": "2026-08-22T01:49:31.018848+00:00",
+  "snapshot_date": "2026-08-22",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 4.03,
+  "avg_daily_price_change_pct": 6.23,
   "top_gainer": {
-    "symbol": "XRP",
-    "change_pct": 17.12
+    "symbol": "ZEC",
+    "change_pct": 30.23
   },
   "top_loser": {
-    "symbol": "FIGR_HELOC",
-    "change_pct": -1.63
+    "symbol": "USDS",
+    "change_pct": 0.01
   }
 }
