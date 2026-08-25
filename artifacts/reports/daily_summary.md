@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-08-24T01:53:18.960849+00:00
-- Snapshot date: 2026-08-24
+- Generated at (UTC): 2026-08-25T01:50:34.447598+00:00
+- Snapshot date: 2026-08-25
 - Coins tracked: 15
-- Average daily price change: -0.29%
-- Top gainer: ZEC (4.31%)
-- Top loser: DOGE (-2.14%)
+- Average daily price change: 1.55%
+- Top gainer: SOL (7.34%)
+- Top loser: LINK (-2.24%)
