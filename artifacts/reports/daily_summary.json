@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-08-25T01:50:34.447598+00:00",
-  "snapshot_date": "2026-08-25",
+  "generated_at_utc": "2026-08-26T01:53:09.105072+00:00",
+  "snapshot_date": "2026-08-26",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 1.55,
+  "avg_daily_price_change_pct": 1.86,
   "top_gainer": {
-    "symbol": "SOL",
-    "change_pct": 7.34
+    "symbol": "WBT",
+    "change_pct": 31.7
   },
   "top_loser": {
-    "symbol": "LINK",
-    "change_pct": -2.24
+    "symbol": "ZEC",
+    "change_pct": -6.18
   }
 }
