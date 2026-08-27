@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-08-26T01:53:09.105072+00:00
-- Snapshot date: 2026-08-26
+- Generated at (UTC): 2026-08-27T02:56:17.855233+00:00
+- Snapshot date: 2026-08-27
 - Coins tracked: 15
-- Average daily price change: 1.86%
-- Top gainer: WBT (31.7%)
-- Top loser: ZEC (-6.18%)
+- Average daily price change: 0.11%
+- Top gainer: SOL (4.4%)
+- Top loser: RAIN (-3.75%)
