@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-08-31T01:40:06.177031+00:00",
-  "snapshot_date": "2026-08-31",
+  "generated_at_utc": "2026-09-01T01:42:51.741782+00:00",
+  "snapshot_date": "2026-09-01",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": -1.15,
+  "avg_daily_price_change_pct": 1.32,
   "top_gainer": {
     "symbol": "XMR",
-    "change_pct": 4.65
+    "change_pct": 5.16
   },
   "top_loser": {
-    "symbol": "RAIN",
-    "change_pct": -4.9
+    "symbol": "TRX",
+    "change_pct": -1.14
   }
 }
