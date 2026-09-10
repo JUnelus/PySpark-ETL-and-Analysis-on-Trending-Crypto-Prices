@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-09-09T01:36:40.852835+00:00",
-  "snapshot_date": "2026-09-09",
+  "generated_at_utc": "2026-09-10T01:34:11.994672+00:00",
+  "snapshot_date": "2026-09-10",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 0.81,
+  "avg_daily_price_change_pct": -1.06,
   "top_gainer": {
-    "symbol": "WBT",
-    "change_pct": 12.01
+    "symbol": "ZEC",
+    "change_pct": 4.56
   },
   "top_loser": {
-    "symbol": "FIGR_HELOC",
-    "change_pct": -1.9
+    "symbol": "DOGE",
+    "change_pct": -4.87
   }
 }
