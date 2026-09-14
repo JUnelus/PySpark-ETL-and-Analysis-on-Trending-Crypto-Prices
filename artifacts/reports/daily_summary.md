@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-09-13T01:38:56.200571+00:00
-- Snapshot date: 2026-09-13
+- Generated at (UTC): 2026-09-14T01:41:36.656301+00:00
+- Snapshot date: 2026-09-14
 - Coins tracked: 15
-- Average daily price change: 0.18%
-- Top gainer: XMR (3.6%)
-- Top loser: FIGR_HELOC (-3.1%)
+- Average daily price change: -1.84%
+- Top gainer: FIGR_HELOC (0.0%)
+- Top loser: ZEC (-5.85%)
