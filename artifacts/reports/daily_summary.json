@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-09-16T01:35:42.553801+00:00",
-  "snapshot_date": "2026-09-16",
+  "generated_at_utc": "2026-09-17T01:36:15.836500+00:00",
+  "snapshot_date": "2026-09-17",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": -2.84,
+  "avg_daily_price_change_pct": 2.32,
   "top_gainer": {
-    "symbol": "USDC",
-    "change_pct": -0.02
+    "symbol": "ZEC",
+    "change_pct": 21.46
   },
   "top_loser": {
-    "symbol": "XRP",
-    "change_pct": -9.86
+    "symbol": "WBT",
+    "change_pct": -3.37
   }
 }
