@@ -48,15 +48,15 @@ It updates:
 <!-- AUTO-GENERATED-SECTION:START -->
 ## Latest Automated Update
 
-![Last Update](https://img.shields.io/badge/last%20update-2026--09--20%2001%3A38%20UTC-blue)
+![Last Update](https://img.shields.io/badge/last%20update-2026--09--21%2001%3A42%20UTC-blue)
 
-- Pipeline run time: **2026-09-20 01:38 UTC**
-- Snapshot date: **2026-09-20**
+- Pipeline run time: **2026-09-21 01:42 UTC**
+- Snapshot date: **2026-09-21**
 - Coins tracked: **15**
-- Avg daily price change: **-1.55%**
+- Avg daily price change: **1.72%**
 
-- Top gainer: **TRX (0.52%)**
-- Top loser: **ZEC (-7.31%)**
+- Top gainer: **XMR (4.87%)**
+- Top loser: **FIGR_HELOC (-1.67%)**
 
 ### Trend Charts
 
@@ -68,15 +68,15 @@ It updates:
 
 | Coin | Symbol | Price | Daily Change | Trend |
 |---|---:|---:|---:|---|
-| Bitcoin | BTC | $81,051.0000 | -0.17% | Sideways |
-| Ethereum | ETH | $2,618.2000 | 0.31% | Sideways |
-| Tether | USDT | $0.9996 | -0.01% | Sideways |
-| BNB | BNB | $760.8900 | -0.19% | Sideways |
-| XRP | XRP | $1.4000 | 0.00% | Sideways |
-| USDC | USDC | $0.9997 | 0.00% | Sideways |
-| Solana | SOL | $110.0700 | -2.82% | Bearish |
-| TRON | TRX | $0.3397 | 0.52% | Sideways |
-| Zcash | ZEC | $1,460.8000 | -7.31% | Bearish |
-| Figure Heloc | FIGR_HELOC | $1.0170 | -1.45% | Bearish |
+| Bitcoin | BTC | $81,373.0000 | 0.40% | Sideways |
+| Ethereum | ETH | $2,674.5900 | 2.15% | Bullish |
+| Tether | USDT | $0.9997 | 0.01% | Sideways |
+| BNB | BNB | $782.1200 | 2.79% | Bullish |
+| XRP | XRP | $1.4200 | 1.43% | Bullish |
+| USDC | USDC | $0.9998 | 0.00% | Sideways |
+| Solana | SOL | $112.0700 | 1.82% | Bullish |
+| TRON | TRX | $0.3430 | 0.97% | Sideways |
+| Zcash | ZEC | $1,531.2300 | 4.82% | Bullish |
+| Figure Heloc | FIGR_HELOC | $1.0000 | -1.67% | Bearish |
 
 <!-- AUTO-GENERATED-SECTION:END -->
