@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-10-01T01:48:49.512557+00:00",
-  "snapshot_date": "2026-10-01",
+  "generated_at_utc": "2026-10-02T01:43:10.769816+00:00",
+  "snapshot_date": "2026-10-02",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 0.38,
+  "avg_daily_price_change_pct": -0.66,
   "top_gainer": {
-    "symbol": "HYPE",
-    "change_pct": 3.76
+    "symbol": "BTC",
+    "change_pct": 1.29
   },
   "top_loser": {
-    "symbol": "SOL",
-    "change_pct": -1.01
+    "symbol": "ZEC",
+    "change_pct": -6.82
   }
 }
