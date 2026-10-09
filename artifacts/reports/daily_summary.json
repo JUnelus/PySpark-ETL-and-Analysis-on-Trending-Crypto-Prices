@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-10-08T01:47:37.257511+00:00",
-  "snapshot_date": "2026-10-08",
+  "generated_at_utc": "2026-10-09T01:49:43.266769+00:00",
+  "snapshot_date": "2026-10-09",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": -2.07,
+  "avg_daily_price_change_pct": -3.13,
   "top_gainer": {
-    "symbol": "XMR",
-    "change_pct": 0.42
+    "symbol": "FIGR_HELOC",
+    "change_pct": 1.18
   },
   "top_loser": {
-    "symbol": "DOGE",
-    "change_pct": -4.69
+    "symbol": "ZEC",
+    "change_pct": -10.33
   }
 }
