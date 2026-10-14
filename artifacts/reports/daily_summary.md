@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-10-13T01:52:10.182122+00:00
-- Snapshot date: 2026-10-13
+- Generated at (UTC): 2026-10-14T01:33:03.908833+00:00
+- Snapshot date: 2026-10-14
 - Coins tracked: 15
-- Average daily price change: -2.45%
-- Top gainer: FIGR_HELOC (0.76%)
-- Top loser: ZEC (-6.61%)
+- Average daily price change: 1.22%
+- Top gainer: ZEC (5.1%)
+- Top loser: FIGR_HELOC (-3.57%)
