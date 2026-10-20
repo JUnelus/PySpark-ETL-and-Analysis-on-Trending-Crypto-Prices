@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-10-19T01:40:12.090496+00:00",
-  "snapshot_date": "2026-10-19",
+  "generated_at_utc": "2026-10-20T01:35:29.460565+00:00",
+  "snapshot_date": "2026-10-20",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 0.86,
+  "avg_daily_price_change_pct": -0.89,
   "top_gainer": {
-    "symbol": "XMR",
-    "change_pct": 2.85
+    "symbol": "BNB",
+    "change_pct": 0.32
   },
   "top_loser": {
-    "symbol": "TRX",
-    "change_pct": -0.31
+    "symbol": "FIGR_HELOC",
+    "change_pct": -5.02
   }
 }
