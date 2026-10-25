@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-10-24T01:35:01.711707+00:00",
-  "snapshot_date": "2026-10-24",
+  "generated_at_utc": "2026-10-25T01:37:04.501747+00:00",
+  "snapshot_date": "2026-10-25",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": -0.96,
+  "avg_daily_price_change_pct": 0.87,
   "top_gainer": {
-    "symbol": "BNB",
-    "change_pct": 0.76
+    "symbol": "XMR",
+    "change_pct": 6.77
   },
   "top_loser": {
-    "symbol": "XMR",
-    "change_pct": -4.89
+    "symbol": "DOGE",
+    "change_pct": -0.96
   }
 }

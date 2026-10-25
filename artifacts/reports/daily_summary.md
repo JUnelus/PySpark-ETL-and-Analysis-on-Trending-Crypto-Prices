@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-10-24T01:35:01.711707+00:00
-- Snapshot date: 2026-10-24
+- Generated at (UTC): 2026-10-25T01:37:04.501747+00:00
+- Snapshot date: 2026-10-25
 - Coins tracked: 15
-- Average daily price change: -0.96%
-- Top gainer: BNB (0.76%)
-- Top loser: XMR (-4.89%)
+- Average daily price change: 0.87%
+- Top gainer: XMR (6.77%)
+- Top loser: DOGE (-0.96%)
