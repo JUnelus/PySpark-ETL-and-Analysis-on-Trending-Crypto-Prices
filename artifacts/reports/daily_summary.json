@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-11-09T01:20:42.527349+00:00",
-  "snapshot_date": "2026-11-09",
+  "generated_at_utc": "2026-11-10T01:20:04.028756+00:00",
+  "snapshot_date": "2026-11-10",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": -1.63,
+  "avg_daily_price_change_pct": -0.89,
   "top_gainer": {
-    "symbol": "XMR",
-    "change_pct": 0.33
+    "symbol": "DOGE",
+    "change_pct": 0.86
   },
   "top_loser": {
-    "symbol": "ETH",
-    "change_pct": -4.61
+    "symbol": "ZEC",
+    "change_pct": -4.65
   }
 }
