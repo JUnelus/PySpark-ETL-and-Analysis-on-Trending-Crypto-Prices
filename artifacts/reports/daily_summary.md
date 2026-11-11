@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-11-10T01:20:04.028756+00:00
-- Snapshot date: 2026-11-10
+- Generated at (UTC): 2026-11-11T01:19:49.058462+00:00
+- Snapshot date: 2026-11-11
 - Coins tracked: 15
-- Average daily price change: -0.89%
-- Top gainer: DOGE (0.86%)
-- Top loser: ZEC (-4.65%)
+- Average daily price change: -2.73%
+- Top gainer: TRX (0.25%)
+- Top loser: ZEC (-13.25%)
