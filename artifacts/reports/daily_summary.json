@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-11-11T01:19:49.058462+00:00",
-  "snapshot_date": "2026-11-11",
+  "generated_at_utc": "2026-11-12T01:19:41.329605+00:00",
+  "snapshot_date": "2026-11-12",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": -2.73,
+  "avg_daily_price_change_pct": 0.11,
   "top_gainer": {
-    "symbol": "TRX",
-    "change_pct": 0.25
+    "symbol": "XMR",
+    "change_pct": 3.62
   },
   "top_loser": {
     "symbol": "ZEC",
-    "change_pct": -13.25
+    "change_pct": -3.4
   }
 }
