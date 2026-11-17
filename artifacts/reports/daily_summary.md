@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-11-16T01:23:26.904586+00:00
-- Snapshot date: 2026-11-16
+- Generated at (UTC): 2026-11-17T01:21:20.991943+00:00
+- Snapshot date: 2026-11-17
 - Coins tracked: 15
-- Average daily price change: 2.43%
-- Top gainer: XMR (5.12%)
-- Top loser: TRX (-0.95%)
+- Average daily price change: 0.26%
+- Top gainer: HYPE (3.7%)
+- Top loser: FIGR_HELOC (-1.7%)
