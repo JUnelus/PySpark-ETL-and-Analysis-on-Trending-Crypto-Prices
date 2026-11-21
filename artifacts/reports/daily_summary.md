@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-11-20T01:19:41.526363+00:00
-- Snapshot date: 2026-11-20
+- Generated at (UTC): 2026-11-21T01:19:53.384061+00:00
+- Snapshot date: 2026-11-21
 - Coins tracked: 15
-- Average daily price change: -1.68%
-- Top gainer: USDT (0.0%)
-- Top loser: WBT (-16.41%)
+- Average daily price change: -5.34%
+- Top gainer: FIGR_HELOC (0.88%)
+- Top loser: ZEC (-15.15%)
