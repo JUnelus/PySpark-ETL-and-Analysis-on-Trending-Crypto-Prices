@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-11-22T01:20:00.119283+00:00
-- Snapshot date: 2026-11-22
+- Generated at (UTC): 2026-11-23T01:21:20.182017+00:00
+- Snapshot date: 2026-11-23
 - Coins tracked: 15
-- Average daily price change: 2.14%
-- Top gainer: XMR (7.99%)
-- Top loser: LEO (-0.22%)
+- Average daily price change: 0.53%
+- Top gainer: ETH (1.89%)
+- Top loser: FIGR_HELOC (-1.12%)

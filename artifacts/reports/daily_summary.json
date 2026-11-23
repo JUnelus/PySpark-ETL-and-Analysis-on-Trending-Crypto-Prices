@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-11-22T01:20:00.119283+00:00",
-  "snapshot_date": "2026-11-22",
+  "generated_at_utc": "2026-11-23T01:21:20.182017+00:00",
+  "snapshot_date": "2026-11-23",
   "coins_tracked": 15,
-  "avg_daily_price_change_pct": 2.14,
+  "avg_daily_price_change_pct": 0.53,
   "top_gainer": {
-    "symbol": "XMR",
-    "change_pct": 7.99
+    "symbol": "ETH",
+    "change_pct": 1.89
   },
   "top_loser": {
-    "symbol": "LEO",
-    "change_pct": -0.22
+    "symbol": "FIGR_HELOC",
+    "change_pct": -1.12
   }
 }
