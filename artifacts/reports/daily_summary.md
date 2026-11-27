@@ -1,8 +1,8 @@
 # Daily Trend Summary
 
-- Generated at (UTC): 2026-11-26T01:20:51.774888+00:00
-- Snapshot date: 2026-11-26
+- Generated at (UTC): 2026-11-27T01:21:11.055953+00:00
+- Snapshot date: 2026-11-27
 - Coins tracked: 15
-- Average daily price change: 1.89%
-- Top gainer: ZEC (4.38%)
-- Top loser: TRX (-1.41%)
+- Average daily price change: -0.62%
+- Top gainer: WBT (4.59%)
+- Top loser: XMR (-9.97%)
